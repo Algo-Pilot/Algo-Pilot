@@ -6,9 +6,9 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 # 💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
-### 🐝 Beecrowd Stats
+## 🐝 Beecrowd Stats:
+![Beecrowd Stats](https://img.shields.io/badge/Solved-0-brightgreen)
 
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Visit%20Profile-blue?style=flat-square&logo=codeforces)](https://www.beecrowd.com.br/judge/en/profile/1153590)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Algo-Pilot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
