@@ -3,7 +3,7 @@ name: Update Beecrowd Stats
 on:
   schedule:
     - cron: '*/30 * * * *'  # Every 30 minutes
-  workflow_dispatch:
+  workflow_dispatch:        # Optional: allows manual run
 
 jobs:
   update:
@@ -17,16 +17,16 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Run Beecrowd Scraper
+      - name: Run Beecrowd Stats Script
         run: python beecrowd_stats.py
 
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add beecrowd_stats.md
-          git commit -m "🔄 Update Beecrowd Stats" || echo "No changes to commit"
+          git add README.md badge_*.json beecrowd_stats.md || true
+          git commit -m "🔄 Update Beecrowd stats and badges" || echo "No changes to commit"
           git push
