@@ -7,11 +7,13 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 # 💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
 ## 🐝 Beecrowd Stats:
+<!-- START beecrowd stats -->
+[⬇️ View my latest Beecrowd stats](./beecrowd_stats.md)
 
-![Beecrowd Solved](https://img.shields.io/badge/Solved-0-brightgreen)
-![Beecrowd Ranking](https://img.shields.io/badge/Rank-0-blue)
-![Beecrowd Streak](https://img.shields.io/badge/Streak-0-orange)
-
+<!-- You can also embed directly like this -->
+<!-- markdown: -->
+![Stats](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/beecrowd_stats.md)
+<!-- END beecrowd stats -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Algo-Pilot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
