@@ -7,7 +7,10 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 # 💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
 ## 🐝 Beecrowd Stats:
-![Beecrowd Stats](https://img.shields.io/badge/Solved-0-brightgreen)
+
+![Beecrowd Solved](https://img.shields.io/badge/Solved-0-brightgreen)
+![Beecrowd Ranking](https://img.shields.io/badge/Rank-0-blue)
+![Beecrowd Streak](https://img.shields.io/badge/Streak-0-orange)
 
 
 # 📊 GitHub Stats:
