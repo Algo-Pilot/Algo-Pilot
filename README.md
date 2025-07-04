@@ -9,9 +9,9 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 ## 🐝 Beecrowd Stats:
 # 🐝 Beecrowd Stats
 
-![Beecrowd Solved](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/badge_solved.json)
-![Beecrowd Streak](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/badge_streak.json)
-![Beecrowd Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/badge_rank.json)
+![Beecrowd Solved](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Algo-Pilot/Algo-Pilot/main/badge_solved.json)
+![Beecrowd Streak](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Algo-Pilot/Algo-Pilot/main/badge_streak.json)
+![Beecrowd Rank](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Algo-Pilot/Algo-Pilot/main/badge_rank.json)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Algo-Pilot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
