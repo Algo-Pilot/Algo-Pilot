@@ -8,7 +8,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
 # 🐝 Beecrowd Stats
 
-![Beecrowd Stats](https://raw.githubusercontent.com/yourusername/Algo-Pilot/main/beecrowd-badge.svg)
+![Beecrowd Stats](https://raw.githubusercontent.com/Algo-Pilot/Algo-Pilot/main/beecrowd-badge.svg)
 
 
 # 📊 GitHub Stats:
