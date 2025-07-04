@@ -1,0 +1,35 @@
+name: Auto‑Update Beecrowd Stats
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python generate_stats.py
+
+      - name: Commit & push if changed
+        run: |
+          git diff
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.name 'GitHub Action'
+            git config --global user.email 'action@github.com'
+            git add README.md
+            git commit -m '⏱️ Update Beecrowd stats'
+            git push
+          fi
