@@ -4,6 +4,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 💻 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=dark&font=Noto%20Sans%20Masaram%20Gondi&ext=activity)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Algo-Pilot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
