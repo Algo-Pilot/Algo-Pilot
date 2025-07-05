@@ -2,9 +2,9 @@ import os
 
 data = {
     "USER ID": "1153590 ",
-    "RANKING": "#233,780 📊",
-    "POINTS": "1250 ✨",
-    "STREAK": "9 DAYS 🔥",
+    "RANKING": "#233,780",
+    "POINTS": "54.35",
+    "STREAK": "9 DAYS",
     "SOLVED": "21"
 }
 
