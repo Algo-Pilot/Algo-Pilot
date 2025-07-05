@@ -7,7 +7,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 # 💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
 
-<<h1 align="center">🚀 My Beecrowd Stats</h1>
+<h1 align="center">🚀 My Beecrowd Stats</h1>
 
 <p align="center">
   <a href="https://www.beecrowd.com.br/judge/en/profile/1153590">
@@ -20,9 +20,9 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
   &nbsp;
   <img src="https://img.shields.io/badge/⚡_Streak-23_days-orange?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🏆_Rank-Top_10%25-cyan?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/🏆_Top_10%25-cyan?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🔰_Rank-Top-green?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/🔰_Rank-233,780-green?style=plastic&labelColor=2d2d2d" height="28">
 </p>
 
 ---
@@ -32,8 +32,8 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 - ✅ **Problems Solved:** `120`  
 - ✨ **Points:** `950`  
 - ⚡ **Streak:** `23 days`  
-- 🏆 **Rank:** `Top 10%`  
-- 🔰 **Top Rank Achieved:** `Top`  
+- 🏆 **Top 10%** in leaderboard  
+- 🔰 **Current Rank:** `233,780`  
 - 💻 **Languages:** `C++`, `Python`  
 - 📅 **Started:** `2024`  
 
