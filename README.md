@@ -44,7 +44,7 @@ No crowd, no pressure. Just me, my code, and the next level.
 
 <h2 align="center">🧠 Overview</h2>
 
-<p align="center">
+
 ✅ <b>Problems Solved:</b> 22 <br>
 ✨ <b>Points:</b> 56.39 <br>
 ⚡ <b>Streak:</b> 10 days <br>
@@ -52,7 +52,6 @@ No crowd, no pressure. Just me, my code, and the next level.
 🔰 <b>Current Rank:</b> 227,097 <br>
 💻 <b>Languages:</b> C++, Python <br>
 📅 <b>Started:</b> 2024
-</p>
 
 <p align="center">
   <a href="https://www.beecrowd.com.br/judge/en/profile/1153590">
