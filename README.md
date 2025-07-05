@@ -20,7 +20,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
   &nbsp;
   <img src="https://img.shields.io/badge/⚡_Streak-09_days-orange?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🏆_Top_34%25-cyan?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/🏆_Top_10%25-cyan?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
   <img src="https://img.shields.io/badge/🔰_Rank-233,780-green?style=plastic&labelColor=2d2d2d" height="28">
 </p>
