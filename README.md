@@ -63,7 +63,6 @@ No crowd, no pressure. Just me, my code, and the next level.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/light_card.svg#gh-dark-mode-only">
-  <br>
   <img src="https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/light_card.svg">
 </p>
 
