@@ -1,11 +1,11 @@
 import os
 
 data = {
-    "USER ID": "1153590",
-    "RANKING": "#420",
-    "POINTS": "1250",
-    "STREAK": "15 DAYS",
-    "SOLVED": "245"
+    "USER ID": "1153590 ",
+    "RANKING": "#233,780 📊",
+    "POINTS": "1250 ✨",
+    "STREAK": "9 DAYS 🔥",
+    "SOLVED": "21"
 }
 
 colors = {
