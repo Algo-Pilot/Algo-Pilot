@@ -26,10 +26,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 </p>
 
 ---
-![](https://raw.githubusercontent.com/Algo-Pilot/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Algo-Pilot/cf-stats/main/output/light_card.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+
 ### 🧠 Overview
 
 - ✅ **Problems Solved:** `21`  
@@ -47,6 +44,10 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 </p>  
 
 ---
+![](https://raw.githubusercontent.com/Algo-Pilot/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Algo-Pilot/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Algo-Pilot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
