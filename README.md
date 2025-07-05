@@ -7,8 +7,15 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 # 💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
 
-# Bee-Stats
-[Click to Preview the HTML](https://github.com/Algo-Pilot/Algo-Pilot/blob/main/bee-stats.html))
+## 📊 Beecrowd Stats
+
+<p>
+  <img src="https://raw.githubusercontent.com/Algo-Pilot/Algo-Pilot/main/badges/user_id.svg" />
+  <img src="https://raw.githubusercontent.com/Algo-Pilot/Algo-Pilot/main/badges/ranking.svg" />
+  <img src="https://raw.githubusercontent.com/Algo-Pilot/Algo-Pilot/main/badges/points.svg" />
+  <img src="https://raw.githubusercontent.com/Algo-Pilot/Algo-Pilot/main/badges/streak.svg" />
+  <img src="https://raw.githubusercontent.com/Algo-Pilot/Algo-Pilot/main/badges/solved.svg" />
+</p>
 
 
 
