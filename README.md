@@ -14,26 +14,26 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
     <img src="https://img.shields.io/badge/🪪_Beecrowd_ID-1153590-blueviolet?style=plastic&labelColor=2d2d2d" height="28" alt="Beecrowd ID" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/✅_Solved-21-success?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/✅_Solved-22-success?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/✨_Points-54.35-yellow?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/✨_Points-56.39-yellow?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_Streak-09_days-orange?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/⚡_Streak-10_days-orange?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🏆_Top-34%25-cyan?style=plastic&labelColor=2d2d2d&color=00bcd4" height="28">
+  <img src="https://img.shields.io/badge/🏆_Top-33%25-cyan?style=plastic&labelColor=2d2d2d&color=00bcd4" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🔰_Rank-233,780-green?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/🔰_Rank-227,097-green?style=plastic&labelColor=2d2d2d" height="28">
 </p>
 
 ---
 
 ### 🧠 Overview
 
-- ✅ **Problems Solved:** `21`  
-- ✨ **Points:** `54.35`  
-- ⚡ **Streak:** `09 days`  
-- 🏆 **Top 34%** in leaderboard  
-- 🔰 **Current Rank:** `233,780`  
+- ✅ **Problems Solved:** `22`  
+- ✨ **Points:** `56.39`  
+- ⚡ **Streak:** `10 days`  
+- 🏆 **Top 33%** in leaderboard  
+- 🔰 **Current Rank:** `227,097`  
 - 💻 **Languages:** `C++`, `Python`  
 - 📅 **Started:** `2024`
 
@@ -42,6 +42,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
     <img src="https://img.shields.io/badge/View%20My%20Profile-Click%20Here-green?style=plastic&labelColor=2d2d2d" alt="Profile Link">
   </a>
 </p>  
+  
 
 ---
 ![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/light_card.svg#gh-dark-mode-only)
