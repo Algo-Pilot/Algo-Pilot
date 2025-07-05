@@ -46,6 +46,9 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 ---
 ![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com//Algo-Pilot/friendly-waffle/main/output/light_card.svg)
+
+-
+
 ![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/rating.svg)
 
