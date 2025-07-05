@@ -7,16 +7,20 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 # 💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
 
-<h1 align="center">🚀 My Beecrowd Stats</h1>
+<<h1 align="center">🚀 My Beecrowd Stats</h1>
 
 <p align="center">
-  <a href="https://www.beecrowd.com.br/judge/en/profile/1153590" style="margin: 4px;">
-    <img src="https://img.shields.io/badge/Beecrowd%20ID-1153590-blueviolet?style=flat-square&logo=codeforces&logoColor=white&labelColor=2d2d2d" alt="Beecrowd ID">
+  <a href="https://www.beecrowd.com.br/judge/en/profile/1153590">
+    <img src="https://img.shields.io/badge/Beecrowd%20ID-1153590-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=2d2d2d" alt="Beecrowd ID">
   </a>
-  <img src="https://img.shields.io/badge/Problems%20Solved-120-success?style=flat-square&logo=leetcode&logoColor=white&labelColor=2d2d2d" alt="Problems Solved" style="margin: 4px;">
-  <img src="https://img.shields.io/badge/Points-950%20pts-yellow?style=flat-square&logo=star&logoColor=white&labelColor=2d2d2d" alt="Points" style="margin: 4px;">
-  <img src="https://img.shields.io/badge/Streak-23%20Days-orange?style=flat-square&logo=fire&logoColor=white&labelColor=2d2d2d" alt="Streak" style="margin: 4px;">
-  <img src="https://img.shields.io/badge/Rank-Top%2010%25-cyan?style=flat-square&logo=ranking&logoColor=white&labelColor=2d2d2d" alt="Rank" style="margin: 4px;">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Problems%20Solved-120-success?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=2d2d2d" alt="Problems Solved">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Points-950%20pts-yellow?style=for-the-badge&logo=star&logoColor=white&labelColor=2d2d2d" alt="Points">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Streak-23%20Days-orange?style=for-the-badge&logo=fire&logoColor=white&labelColor=2d2d2d" alt="Streak">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Rank-Top%2010%25-cyan?style=for-the-badge&logo=ranking&logoColor=white&labelColor=2d2d2d" alt="Rank">
 </p>
 
 ---
