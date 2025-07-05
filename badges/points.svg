@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="80">
+  <rect rx="12" width="180" height="80" fill="#f1b501" />
+  <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" font-size="16" fill="#fff" font-family="Arial" font-weight="bold">POINTS</text>
+  <rect y="40" rx="12" width="180" height="40" fill="#fff" />
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-size="22" fill="#000" font-family="Arial" font-weight="bold">1250</text>
+</svg>
