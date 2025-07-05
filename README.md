@@ -29,16 +29,6 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 
 ---
 
-### 📈 Progress Chart (Manual Update)
-```diff
-+ Week 1: 10 problems solved
-+ Week 2: 18 problems solved
-+ Week 3: 32 problems solved
-+ Week 4: 60 problems solved
-+ Week 5: 85 problems solved
-+ Week 6: 120 problems solved
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Algo-Pilot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Algo-Pilot&theme=dark&hide_border=false)<br/>
