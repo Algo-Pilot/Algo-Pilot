@@ -23,7 +23,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 
 ### 🧠 Overview
 
-- 🧩 **Problems Solved:** `120`
+- 🧩 **Problems Solved:** `12`
 - 🌟 **Points:** `950`
 - 🔥 **Streak:** `23 days`
 - 🧮 **Rank:** `Top 10%`
