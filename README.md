@@ -7,53 +7,122 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 # 💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
 
+#beecrod-Stats
+<div class="badge red">
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="216px" height="232px" viewBox="0 0 216 232">
+		<path fill="#2B2B2B" d="M207,0C171.827,0.001,43.875,0.004,9.003,0c-5.619-0.001-9,3.514-9,9c0,28.23-0.006,151.375,0,169    c0.005,13.875,94.499,54,107.999,54S216,191.57,216,178V9C216,3.298,212.732,0,207,0z"/>
+</svg>
+  <p class="title">BRUTEFORCE EXPERT</p>
+  <p class="subtitle">CTF 365</p>
+</div>
 
-<h1 align="center">🚀 My Beecrowd Stats</h1>
+<div class="badge green">
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="216px" height="232px" viewBox="0 0 216 232">
+		<path fill="#2B2B2B" d="M207,0C171.827,0.001,43.875,0.004,9.003,0c-5.619-0.001-9,3.514-9,9c0,28.23-0.006,151.375,0,169    c0.005,13.875,94.499,54,107.999,54S216,191.57,216,178V9C216,3.298,212.732,0,207,0z"/>
+</svg>
+  <p class="title">SQLi<br/>MASTER</p>
+  <p class="subtitle">CTF 365</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-120-success?style=for-the-badge&labelColor=2d2d2d" height="28">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Points-950-yellow?style=for-the-badge&labelColor=2d2d2d" height="28">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Streak-23_days-orange?style=for-the-badge&labelColor=2d2d2d" height="28">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Rank-Top_10%25-cyan?style=for-the-badge&labelColor=2d2d2d" height="28">
-</p>
+<div class="badge gray">
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="216px" height="232px" viewBox="0 0 216 232">
+		<path fill="#2B2B2B" d="M207,0C171.827,0.001,43.875,0.004,9.003,0c-5.619-0.001-9,3.514-9,9c0,28.23-0.006,151.375,0,169    c0.005,13.875,94.499,54,107.999,54S216,191.57,216,178V9C216,3.298,212.732,0,207,0z"/>
+</svg>
+  <p class="title">SNIFFER COMMANDER</p>
+  <p class="subtitle">CTF 365</p>
+</div>
 
----
+<div class="badge yellow">
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="216px" height="232px" viewBox="0 0 216 232">
+		<path fill="#2B2B2B" d="M207,0C171.827,0.001,43.875,0.004,9.003,0c-5.619-0.001-9,3.514-9,9c0,28.23-0.006,151.375,0,169    c0.005,13.875,94.499,54,107.999,54S216,191.57,216,178V9C216,3.298,212.732,0,207,0z"/>
+</svg>
+  <p class="title">SCRIPT<br/>EXPERT</p>
+  <p class="subtitle">CTF 365</p>
+</div>
 
-### 🧠 Overview
+<div class="badge blue">
+  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="216px" height="232px" viewBox="0 0 216 232">
+		<path fill="#2B2B2B" d="M207,0C171.827,0.001,43.875,0.004,9.003,0c-5.619-0.001-9,3.514-9,9c0,28.23-0.006,151.375,0,169    c0.005,13.875,94.499,54,107.999,54S216,191.57,216,178V9C216,3.298,212.732,0,207,0z"/>
+</svg>
+  <p class="title">CRYPTO MASTER</p>
+  <p class="subtitle">CTF 365</p>
+</div>
 
-- 🧩 **Problems Solved:** `120`
-- 🌟 **Points:** `950`
-- 🔥 **Streak:** `23 days`
-- 🧮 **Rank:** `Top 10%`
-- 💻 **Languages:** `C++`, `Python`
-- 📅 **Started:** `2024`
 
----
+@import "compass/css3";
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bruteforce%20Expert-CTF%20365-de4444?style=plastic&labelColor=2d2d2d&colorA=de4444" height="80">
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQLi%20Master-CTF%20365-28c76f?style=plastic&labelColor=2d2d2d&colorA=28c76f" height="80">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Sniffer%20Commander-CTF%20365-95a5a6?style=plastic&labelColor=2d2d2d&colorA=95a5a6" height="80">
-</p>
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Script%20Expert-CTF%20365-ffc107?style=plastic&labelColor=2d2d2d&colorA=ffc107" height="80">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Crypto%20Master-CTF%20365-3498db?style=plastic&labelColor=2d2d2d&colorA=3498db" height="80">
-</p>
+.badge{
+  position: relative;
+  width: 216px;
+  display: inline-block;
+  margin: 40px;
+  .title{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 1.7em;
+    position: absolute;
+    top: -28px;
+    border-radius: 8px 8px 0 0;
+    text-align: center;
+    width: 100%;
+    background: red;
+    padding: 20px 0;
+  }
+  .subtitle{
+    position: absolute;
+    font-family: "Fjalla One", sans-serif;
+    font-size: 1.8em;
+    width: 100%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 100px;
+    &:after{
+        content: "★ ★ ★";
+        display: block;
+        font-size: .4em;
+        position: relative;
+        margin: 15px 0 0;
+        transition: all .3s;
+      }
+  }
+  &:hover .subtitle:after{
+      word-spacing: 30px; 
+  }
+}
 
----
+@mixin setColor($color){
+  .title{
+      background: $color;
+  }
+  .subtitle:after{
+      color: $color;
+  }
+}
 
-<p align="center">
-  <a href="https://www.beecrowd.com.br/judge/en/profile/1153590">
-    <img src="https://img.shields.io/badge/View%20My%20Profile-Click%20Here-green?style=for-the-badge&labelColor=2d2d2d" alt="Profile Link">
-  </a>
-</p>
+.red{
+  @include setColor(#DC514E);
+}
+
+.green{
+  @include setColor(#2ecc71);
+}
+
+.gray{
+  @include setColor(#95a5a6);
+}
+
+.yellow{
+  @include setColor(#f1c40f);
+}
+
+.blue{
+  @include setColor(#3498db);
+}
+
 
 
 
