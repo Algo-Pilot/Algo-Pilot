@@ -10,7 +10,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 <h1 align="center">🚀 My Beecrowd Stats</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-120-success?style=for-the-badge&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/Problems%20Solved-12-success?style=for-the-badge&labelColor=2d2d2d" height="28">
   &nbsp;
   <img src="https://img.shields.io/badge/Points-950-yellow?style=for-the-badge&labelColor=2d2d2d" height="28">
   &nbsp;
