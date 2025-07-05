@@ -14,13 +14,13 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
     <img src="https://img.shields.io/badge/🪪_Beecrowd_ID-1153590-blueviolet?style=plastic&labelColor=2d2d2d" height="28" alt="Beecrowd ID" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/✅_Solved-120-success?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/✅_Solved-21-success?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/✨_Points-950-yellow?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/✨_Points-54.35-yellow?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_Streak-23_days-orange?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/⚡_Streak-09_days-orange?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🏆_Top_10%25-cyan?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/🏆_Top_34%25-cyan?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
   <img src="https://img.shields.io/badge/🔰_Rank-233,780-green?style=plastic&labelColor=2d2d2d" height="28">
 </p>
@@ -29,13 +29,13 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 
 ### 🧠 Overview
 
-- ✅ **Problems Solved:** `120`  
-- ✨ **Points:** `950`  
-- ⚡ **Streak:** `23 days`  
-- 🏆 **Top 10%** in leaderboard  
+- ✅ **Problems Solved:** `21`  
+- ✨ **Points:** `54.35`  
+- ⚡ **Streak:** `09 days`  
+- 🏆 **Top 34%** in leaderboard  
 - 🔰 **Current Rank:** `233,780`  
-- 💻 **Languages:** `C++`, `Python`  
-- 📅 **Started:** `2024`  
+- 💻 **Languages:** `C++`, `Python` , `Java`
+- 📅 **Started:** `2025`  
 <p align="center">
   <a href="https://www.beecrowd.com.br/judge/en/profile/1153590">
     <img src="https://img.shields.io/badge/View%20My%20Profile-Click%20Here-green?style=plastic&labelColor=2d2d2d" alt="Profile Link">
