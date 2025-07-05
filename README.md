@@ -7,25 +7,13 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 # 💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
 
-<h1 align="center">🚀 My Beecrowd Stats</h1>
-
-<!-- Beecrowd ID -->
-![Beecrowd ID](https://img.shields.io/badge/Beecrowd_ID-1153590-blue?style=for-the-badge&logo=codeforces&logoColor=white)
-
-<!-- Streaks -->
-![Streak](https://img.shields.io/badge/Streak-🔥%207-orange?style=for-the-badge&logo=firefox-browser&logoColor=white)
-
-<!-- Points -->
-![Points](https://img.shields.io/badge/Points-1234-yellow?style=for-the-badge&logo=star&logoColor=white)
-
-<!-- Ranking -->
-![Ranking](https://img.shields.io/badge/Ranking-Top%2010%25-lightgrey?style=for-the-badge&logo=podium&logoColor=white)
-
-<!-- Solved Problems -->
-![Solved](https://img.shields.io/badge/Solved-250-green?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Beecrowd_ID-1153590-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Beecrowd ID"/>
+  <img src="https://img.shields.io/badge/Streak-🔥%207-orange?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Points-1234-yellow?style=for-the-badge&logo=star&logoColor=white" alt="Points"/>
+  <img src="https://img.shields.io/badge/Ranking-Top%2010%25-lightgrey?style=for-the-badge&logo=podium&logoColor=white" alt="Ranking"/>
+  <img src="https://img.shields.io/badge/Solved-250-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Solved"/>
+</p>
 
 
 
