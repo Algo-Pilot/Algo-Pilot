@@ -5,7 +5,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 # 💻 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest&font=Fira%20Code&ext=activity) ![LeetCode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=light&font=Noto%20Sans%20Elymaic&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest&font=Fira%20Code&ext=heatmap)
 
 <h1 align="center">🚀 My Beecrowd Stats</h1>
 
