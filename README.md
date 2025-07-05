@@ -8,7 +8,7 @@ No crowd, no pressure. Just me, my code, and the next level.<br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest)
 
 # Bee-Stats
-[Click to Preview the HTML]([https://your_username.github.io/your_repo/](https://github.com/Algo-Pilot/Algo-Pilot/blob/main/bee-stats.html))
+[Click to Preview the HTML](https://github.com/Algo-Pilot/Algo-Pilot/blob/main/bee-stats.html))
 
 
 
