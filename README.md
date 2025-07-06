@@ -89,7 +89,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algo-pilot&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/algo-pilot/algo-pilot/output/snake.svg" alt="Snake animation" />
 
+###
 
 
 
@@ -103,4 +105,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=algo-pilot&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
