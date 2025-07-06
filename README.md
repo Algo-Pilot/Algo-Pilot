@@ -1,19 +1,22 @@
 <a href="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" target="_blank">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="200">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="220" style="margin-top: 20px;">
 </a>
 
-<div align="left">
+## 💫 About Me:
 
-# 💫 About Me:
+<table>
+<tr>
+<td>
 
-💻 Passionate about solving real-world problems through code.  <br>
-🚀 Currently sharpening my skills in Java, DSA, and competitive programming.  <br>
+🖥️ Passionate about solving real-world problems through code.  <br>
+🎯 Currently sharpening my skills in Java, DSA, and competitive programming.  <br>
 🌱 Continuously learning new technologies and improving problem-solving strategies.  <br>
 ⚡ Love participating in coding contests and building efficient solutions.  <br>
-🎯 Focused on writing clean, scalable, and maintainable code.  <br>
+✅ Focused on writing clean, scalable, and maintainable code.  <br>
 
-</div>
-
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
