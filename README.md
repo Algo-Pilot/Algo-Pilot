@@ -25,6 +25,57 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
+
+
+# 💻 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest&font=Fira%20Code&ext=heatmap)
+
+<h1 align="center">🚀 My Beecrowd Stats</h1>
+
+<p align="center">
+  <a href="https://www.beecrowd.com.br/judge/en/profile/1153590">
+    <img src="https://img.shields.io/badge/🪪_Beecrowd_ID-1153590-blueviolet?style=plastic&labelColor=2d2d2d" height="28" alt="Beecrowd ID" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/✅_Solved-22-success?style=plastic&labelColor=2d2d2d" height="28">
+  &nbsp;
+  <img src="https://img.shields.io/badge/✨_Points-56.39-yellow?style=plastic&labelColor=2d2d2d" height="28">
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡_Streak-10_days-orange?style=plastic&labelColor=2d2d2d" height="28">
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏆_Top-33%25-cyan?style=plastic&labelColor=2d2d2d&color=00bcd4" height="28">
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔰_Rank-227,097-green?style=plastic&labelColor=2d2d2d" height="28">
+</p>
+
+---
+
+### 🧠 Overview
+
+- ✅ **Problems Solved:** `22`  
+- ✨ **Points:** `56.39`  
+- ⚡ **Streak:** `10 days`  
+- 🏆 **Top 33%** in leaderboard  
+- 🔰 **Current Rank:** `227,097`  
+- 💻 **Languages:** `C++`, `Python`  
+- 📅 **Started:** `2024`
+
+<p align="center">
+  <a href="https://www.beecrowd.com.br/judge/en/profile/1153590">
+    <img src="https://img.shields.io/badge/View%20My%20Profile-Click%20Here-green?style=plastic&labelColor=2d2d2d" alt="Profile Link">
+  </a>
+</p>  
+  
+
+---
+![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com//Algo-Pilot/friendly-waffle/main/output/light_card.svg)
+
+-
+
+![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/rating.svg)
+
 <h2>📊 GitHub Stats:</h2>
 
 <!-- Centered Current Streak -->
