@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td>
+<td style="vertical-align: top;">
 
 ## 💫 About Me:
 
@@ -12,9 +12,9 @@
 
 </td>
 
-<td>
+<td style="border: none; padding-left: 20px;">
 <a href="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" style="margin-top: 30px;">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" style="margin-top: 30px; border: none;">
 </a>
 </td>
 
