@@ -91,6 +91,10 @@
 
 <img src="https://raw.githubusercontent.com/algo-pilot/algo-pilot/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/algo-pilot/count.svg?"  />
+</div>
+
 ###
 
 
