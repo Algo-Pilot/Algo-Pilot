@@ -1,25 +1,21 @@
 <table>
-<tr>
-<td style="vertical-align: top;">
-
-## 💫 About Me:
-
-🖥️ Passionate about solving real-world problems through code.  <br>
-🎯 Currently sharpening my skills in Java, DSA, and competitive programming.  <br>
-🌱 Continuously learning new technologies and improving problem-solving strategies.  <br>
-⚡ Love participating in coding contests and building efficient solutions.  <br>
-✅ Focused on writing clean, scalable, and maintainable code.  <br>
-
-</td>
-
-<td style="border: none; padding-left: 20px;">
-<a href="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" style="margin-top: 30px; border: none;">
-</a>
-</td>
-
-</tr>
+  <tr>
+    <td>
+      <h1>💫 About Me:</h1>
+      <pre>
+🖥️ Passionate about solving real-world problems through code.
+🎯 Currently sharpening my skills in Java, DSA, and competitive programming.
+🌱 Continuously learning new technologies and improving problem-solving strategies.
+⚡ Love participating in coding contests and building efficient solutions.
+✅ Focused on writing clean, scalable, and maintainable code.
+      </pre>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300">
+    </td>
+  </tr>
 </table>
+
 
 
 
