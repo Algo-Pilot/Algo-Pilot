@@ -103,9 +103,18 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=algo-pilot&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=algo-pilot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  
+  <img src="https://github-contributor-stats.vercel.app/api?username=algo-pilot&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
+  
+  <!-- Spacer for visible gap -->
+  <img src="https://via.placeholder.com/30x1/00000000/00000000?text=+" alt="" />
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote" />
+  
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=algo-pilot&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+
 
