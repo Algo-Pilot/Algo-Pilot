@@ -117,7 +117,7 @@
 
 
 
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username={AlgoPilot})
+
 
 
 
