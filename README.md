@@ -1,3 +1,8 @@
+![](https://komarev.com/ghpvc/?username=Algo-Pilot&label=PROFILE+VIEWS)
+
+
+
+
 <table>
   <tr>
     <td>
@@ -119,7 +124,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=Algo-Pilot&label=PROFILE+VIEWS)
+
 
 
 
