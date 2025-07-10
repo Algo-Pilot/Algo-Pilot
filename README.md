@@ -42,26 +42,26 @@
     <img src="https://img.shields.io/badge/🪪_Beecrowd_ID-1153590-blueviolet?style=plastic&labelColor=2d2d2d" height="28" alt="Beecrowd ID" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/✅_Solved-24-success?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/✅_Solved-34-success?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/✨_Points-65.52-yellow?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/✨_Points-102.59-yellow?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_Streak-12_days-orange?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/⚡_Streak-15_days-orange?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🏆_Top-30%25-cyan?style=plastic&labelColor=2d2d2d&color=00bcd4" height="28">
+  <img src="https://img.shields.io/badge/🏆_Top-22%25-cyan?style=plastic&labelColor=2d2d2d&color=00bcd4" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🔰_Rank-208,975-green?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/🔰_Rank-152,654-green?style=plastic&labelColor=2d2d2d" height="28">
 </p>
 
 ---
 
 ### 🧠 Overview
 
-- ✅ **Problems Solved:** `24`  
-- ✨ **Points:** `65.52`  
-- ⚡ **Streak:** `12 days`  
-- 🏆 **Top 30%** in leaderboard  
-- 🔰 **Current Rank:** `208,975`  
+- ✅ **Problems Solved:** `34`  
+- ✨ **Points:** `102.59`  
+- ⚡ **Streak:** `15 days`  
+- 🏆 **Top 22%** in leaderboard  
+- 🔰 **Current Rank:** `152,654`  
 - 💻 **Languages:** `C++`, `Python`  
 - 📅 **Started:** `2024`
 
