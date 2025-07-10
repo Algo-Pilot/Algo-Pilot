@@ -63,7 +63,7 @@
 - 🏆 **Top 13%** in leaderboard  
 - 🔰 **Current Rank:** `92,299`  
 - 💻 **Languages:** `C++`, `Python`  
-- 📅 **Started:** `2024`
+- 📅 **Started:** `2025`
 
 <p align="center">
   <a href="https://www.beecrowd.com.br/judge/en/profile/1153590">
