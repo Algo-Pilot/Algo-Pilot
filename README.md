@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Algo-Pilot&label=PROFILE+VIEWS)
 
 
-
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 55%; vertical-align: top;">
@@ -33,10 +32,6 @@
 </table>
 
 
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/algopilot/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahimasfaq01@gmail.com) 
 
@@ -47,6 +42,7 @@
 
 # 💻 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest&font=Fira%20Code&ext=heatmap)
+
 
 <h1 align="center">🚀 My Beecrowd Stats</h1>
 
@@ -84,10 +80,6 @@
   </a>
 </p>  
 
-  
- 
-
-  
 
 ---
 ![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/light_card.svg#gh-dark-mode-only)
@@ -97,6 +89,8 @@
 
 ![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/Algo-Pilot/friendly-waffle/main/output/rating.svg)
+
+
 
 <h2>📊 GitHub Stats:</h2>
 
@@ -113,14 +107,6 @@
 
 <img src="https://raw.githubusercontent.com/algo-pilot/algo-pilot/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/algo-pilot/count.svg?"  />
-</div>
-
-###
-
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=algo-pilot&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -135,12 +121,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Dev Quote" />
   
 </p>
-
-
-
-
-
-
-
 
 
