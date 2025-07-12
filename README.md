@@ -3,23 +3,26 @@
 
 
 
-<table>
-  <tr>
-    <td>
-      <h1>💫 About Me:</h1>
-      <pre>
+<div style="width: 700px; margin: auto;">
+  <table>
+    <tr>
+      <td style="width: 400px; vertical-align: top;">
+        <h1>💫 About Me:</h1>
+        <pre style="font-size: 14px; white-space: pre-wrap;">
 🖥️ Passionate about solving real-world problems through code.
 🎯 Currently sharpening my skills in Java, DSA, and competitive programming.
 🌱 Continuously learning new technologies and improving problem-solving strategies.
 ⚡ Love participating in coding contests and building efficient solutions.
 ✅ Focused on writing clean, scalable, and maintainable code.
-      </pre>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300">
-    </td>
-  </tr>
-</table>
+        </pre>
+      </td>
+      <td style="width: 300px; text-align: center;">
+        <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="250">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
