@@ -20,7 +20,8 @@
       ">
 🖥️ Passionate about solving real-world problems through code.
 🎯 Currently sharpening my skills in Java, DSA, and competitive programming.
-🌱 Continuously learning new technologies and improving problem-solving strategies.
+🌱 Continuously learning new technologies
+💡 Improving problem-solving strategies.
 ⚡ Love participating in coding contests and building efficient solutions.
 ✅ Focused on writing clean, scalable, and maintainable code.
       </pre>
