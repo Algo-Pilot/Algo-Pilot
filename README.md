@@ -2,26 +2,35 @@
 
 
 
-
-<div style="width: 700px; margin: auto;">
-  <table>
-    <tr>
-      <td style="width: 400px; vertical-align: top;">
-        <h1>💫 About Me:</h1>
-        <pre style="font-size: 14px; white-space: pre-wrap;">
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 55%; vertical-align: top;">
+      <h2>💫 About Me:</h2>
+      <pre style="
+        background-color: #161b22;
+        color: #c9d1d9;
+        padding: 16px;
+        border-radius: 8px;
+        font-family: Consolas, 'Courier New', monospace;
+        font-size: 14px;
+        line-height: 1.5;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        overflow-x: hidden;
+      ">
 🖥️ Passionate about solving real-world problems through code.
 🎯 Currently sharpening my skills in Java, DSA, and competitive programming.
 🌱 Continuously learning new technologies and improving problem-solving strategies.
 ⚡ Love participating in coding contests and building efficient solutions.
 ✅ Focused on writing clean, scalable, and maintainable code.
-        </pre>
-      </td>
-      <td style="width: 300px; text-align: center;">
-        <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="250">
-      </td>
-    </tr>
-  </table>
-</div>
+      </pre>
+    </td>
+    <td style="width: 45%; text-align: center;">
+      <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="250" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
