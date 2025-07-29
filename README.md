@@ -44,6 +44,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AlgoPilot?theme=forest&font=Fira%20Code&ext=heatmap)
 
 
+
+
 <h1 align="center">🚀 My Beecrowd Stats</h1>
 
 <p align="center">
@@ -51,26 +53,26 @@
     <img src="https://img.shields.io/badge/🪪_Beecrowd_ID-1153590-blueviolet?style=plastic&labelColor=2d2d2d" height="28" alt="Beecrowd ID" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/✅_Solved-71-success?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/✅_Solved-92-success?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/✨_Points-189.24-yellow?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/✨_Points-231.31-yellow?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_Streak-24_days-orange?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/⚡_Streak-33_days-orange?style=plastic&labelColor=2d2d2d" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🏆_Top-9%25-cyan?style=plastic&labelColor=2d2d2d&color=00bcd4" height="28">
+  <img src="https://img.shields.io/badge/🏆_Top-6%25-cyan?style=plastic&labelColor=2d2d2d&color=00bcd4" height="28">
   &nbsp;
-  <img src="https://img.shields.io/badge/🔰_Rank-62,003-green?style=plastic&labelColor=2d2d2d" height="28">
+  <img src="https://img.shields.io/badge/🔰_Rank-44,575-green?style=plastic&labelColor=2d2d2d" height="28">
 </p>
 
 ---
 
 ### 🧠 Overview
 
-- ✅ **Problems Solved:** `71`  
-- ✨ **Points:** `189.24`  
-- ⚡ **Streak:** `24 days`  
-- 🏆 **Top 9%** in leaderboard  
-- 🔰 **Current Rank:** `62,003`  
+- ✅ **Problems Solved:** `92`  
+- ✨ **Points:** `231.31`  
+- ⚡ **Streak:** `33 days`  
+- 🏆 **Top 6%** in leaderboard  
+- 🔰 **Current Rank:** `44,575`  
 - 💻 **Languages:** `C++`, `CSS3`, `Java`, `HTML5`, `JavaScript`  
 - 📅 **Started:** `2025`
 
@@ -79,7 +81,6 @@
     <img src="https://img.shields.io/badge/View%20My%20Profile-Click%20Here-green?style=plastic&labelColor=2d2d2d" alt="Profile Link">
   </a>
 </p>  
-
 
 
 
